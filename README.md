@@ -3,7 +3,7 @@
 # 🧠 AI Prompt Companion Tool
 
 An intelligent, desktop-based AI assistant built with Python.  
-This tool lets users interact with AI using **voice or text prompts**, and receive responses from the **Claude 3 Haiku model via OpenRouter API**. It also supports **PDF export**, **prompt categories**, and a **friendly GUI**.
+This tool lets users interact with AI using voice or text prompts, and receive responses from the Claude 3 Haiku model via OpenRouter API. It also supports PDF export, prompt categories, and a friendly GUI.
 
 ---
 
@@ -18,17 +18,6 @@ This tool lets users interact with AI using **voice or text prompts**, and recei
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add actual screenshots in `screenshots/` folder and they’ll be shown here)*
-
-### 🔘 Main Interface
-![Main UI](screenshots/ui_view.png)
-
-### 🧾 PDF Export Feature
-![PDF Export](screenshots/pdf_export.png)
-
----
 
 ## 🧰 Modules & Installation
 
@@ -36,7 +25,6 @@ This tool lets users interact with AI using **voice or text prompts**, and recei
 
 Create a virtual environment (optional but recommended):
 
-```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 ````
@@ -113,7 +101,7 @@ AI_PROMPT_TOOL/
 
 ---
 
-## 🙋 About the Author
+## ⭐ About the Author
 
 Developed with 💡 and 🎤 by **[Srushti Bagade](https://github.com/srushti-bagade)**
 For academic/portfolio use – feel free to fork, use, and contribute!
