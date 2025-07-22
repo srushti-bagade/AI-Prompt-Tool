@@ -7,7 +7,7 @@ import speech_recognition as sr
 from fpdf import FPDF
 
 # --- Claude 3 Haiku via OpenRouter API ---
-API_KEY = "YOUR_API_KEY"
+API_KEY = "YOUR_OPENROUTER_API_KEY"
 MODEL = "anthropic/claude-3-haiku"
 
 conversation_history = []  # To store (prompt, response) pairs
