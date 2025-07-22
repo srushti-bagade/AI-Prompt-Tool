@@ -1,8 +1,3 @@
-Absolutely, Srushti! Here's a **complete and professional `README.md` file** for your **AI Prompt Companion Tool** (built with Tkinter, voice input/output, Claude 3 API, PDF export, etc.).
-
----
-
-## ✅ Full README.md for Your AI Tool
 
 ````markdown
 # 🧠 AI Prompt Companion Tool
