@@ -103,7 +103,7 @@ AI_PROMPT_TOOL/
 
 ## ⭐ About the Author
 
-Developed with 💡 and 🎤 by **[Srushti Bagade](https://github.com/srushti-bagade)**
+Developed by **[Srushti Bagade](https://github.com/srushti-bagade)**
 For academic/portfolio use – feel free to fork, use, and contribute!
 
 ---
